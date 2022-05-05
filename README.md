@@ -35,5 +35,5 @@ In this session, we’ll explore Azure Functions and see how they can be used to
 | Event | Location | Date | Time | Room | Downloads |
 |-------|:--------:|-----:|-----:|-----:|----------:|
 | [Louisville .NET Meetup](https://www.meetup.com/Louisville-DotNet/events/285367376/) | Louisville, KY | April 28, 2022 | 7:00 pm EDT | Modis | [Slides](https://github.com/TaleLearnCode/BuildingMicroserviceRESTAPIsUsingAzureFunctions/blob/main/Presentations/Building_Microservice_REST_APIs_Using_Azure_Functions-LouDotNet.pdf)
-| [StirTrek](https://stirtrek.com/speakers/2022/Chad-Green.html#abstract) | Columbus, OH | May 6, 2022 | 1:00 pm EDT | Daugherty | Available Afterwards |
+| [StirTrek](https://stirtrek.com/speakers/2022/Chad-Green.html#abstract) | Columbus, OH | May 6, 2022 | 1:00 pm EDT | Daugherty | [Slides](https://github.com/TaleLearnCode/BuildingMicroserviceRESTAPIsUsingAzureFunctions/blob/main/Presentations/Building_Microservice_REST_APIs_Using_Azure_Functions-StirTrek.pdf) |
 | [dev up 2022](https://www.devupconf.org/speakers/chad-green) | St. Charles, MO | June 6 - 8, 2022 | TBA | TBA | Available Afterwards |
