@@ -35,7 +35,7 @@ In this session, we’ll explore Azure Functions and see how they can be used to
 | Event | Location | Date | Time | Room | Downloads |
 |-------|:--------:|-----:|-----:|-----:|----------:|
 | [TechBash 2022](https://techbash.com/) | Pocono Manor, PA | November 8 - 11, 2022 | TBA | TBA | Available Afterwards |
-| [Scenic City Summit 2022](https://sceniccitysummit.com/) | Chattanooga, TN | July 22, 2022 | TBA | TBA | Available Afterwards |
+| [Scenic City Summit 2022](https://sceniccitysummit.com/) | Chattanooga, TN | July 22, 2022 | 9:00 am EDT | Ballroom | [Slides](file:///D:\Repos\TaleLearnCode\Presentations\TechnicalDebtIsNotFree\Presentations\TechnicalDebitIsNotFree_ScenicCitySummit.pdf) |
 | [dev up 2022](https://www.devupconf.org/speakers/chad-green) | St. Charles, MO | June 7, 2022 | 8:30 am CDT | Imagination A | [Slides](Presentations/Building_Microservice_REST_APIs_Using_Azure_Functions-DevUp.pdf) |
 | [StirTrek](https://stirtrek.com/speakers/2022/Chad-Green.html#abstract) | Columbus, OH | May 6, 2022 | 1:00 pm EDT | Daugherty | [Slides](https://github.com/TaleLearnCode/BuildingMicroserviceRESTAPIsUsingAzureFunctions/blob/main/Presentations/Building_Microservice_REST_APIs_Using_Azure_Functions-StirTrek.pdf) |
 | [Louisville .NET Meetup](https://www.meetup.com/Louisville-DotNet/events/285367376/) | Louisville, KY | April 28, 2022 | 7:00 pm EDT | Modis | [Slides](https://github.com/TaleLearnCode/BuildingMicroserviceRESTAPIsUsingAzureFunctions/blob/main/Presentations/Building_Microservice_REST_APIs_Using_Azure_Functions-LouDotNet.pdf) |
